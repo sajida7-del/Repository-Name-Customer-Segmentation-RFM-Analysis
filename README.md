@@ -1,7 +1,9 @@
 # Customer Segmentation using RFM Analysis
 
+Google Colab Notebook: https://colab.research.google.com/drive/1UvuOXrTp4brSVAZZ8JOBm8SNJtNEcQ4G#scrollTo=oC99hGYq6W9w&uniqifier=1
+
 ## Project Overview
-This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
+This project analyzes retail customer behavior customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
 
 ## Tools Used
 - Python
